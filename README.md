@@ -7,7 +7,7 @@ Hey there! I´ve been participating in Advent of Code 2022. These are my approac
 | 1  |  [Calorie Counting][Calorie Counting] |  [Day 0][Day 0] |
 | 2  |  [Rock Paper Scissors] |  [Day 2][Day 2] |
 | 3  |  [Rucksack Reorganization] |  [Day 3][Day 3] |
-| 4  |  [Camp Cleanup] |  [Day4][Day 4] |
+| 4  |  [Camp Cleanup] |  [Day 4][Day 4] |
 
 
 ##### Fav ❤️ this repo if you also think that Advent Of Code should start at day 0 😛
@@ -17,6 +17,6 @@ Hey there! I´ve been participating in Advent of Code 2022. These are my approac
 [Day 2]: https://github.com/GabriRDiaz/AdventOfCode22/tree/main/Day2 "Day 2"
 [Rock Paper Scissors]: https://adventofcode.com/2022/day/2 "Rock Paper Scissors"
 [Day 3]: https://github.com/GabriRDiaz/AdventOfCode22/tree/main/Day3 "Day 3"
-[Rucksack Reorganization]: https://adventofcode.com/2022/day/2 "Rucksack Reorganization"
+[Rucksack Reorganization]: https://adventofcode.com/2022/day/3 "Rucksack Reorganization"
 [Day 4]: https://github.com/GabriRDiaz/AdventOfCode22/tree/main/Day4 "Day 4"
 [Camp Cleanup]: https://adventofcode.com/2022/day/4 "Camp Cleanup"
